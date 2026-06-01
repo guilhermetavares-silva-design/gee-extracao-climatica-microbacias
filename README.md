@@ -96,5 +96,5 @@ Programa PROMAB/LHF – USP ESALQ
 ```
 TAVARES, G. Extração de dados climáticos mensais por microbacia via Google Earth Engine
 (BR-DWGD / Xavier Collection). GitHub, 2025.
-Disponível em: <URL do repositório>
+Disponível em: <https://github.com/guilhermetavares-silva-design/gee-extracao-climatica-microbacias>
 ```
